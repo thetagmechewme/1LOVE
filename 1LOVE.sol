@@ -376,8 +376,8 @@ contract DividendDistributor is IDividendDistributor {
 contract ONELOVE is IBEP20, Auth {
     using SafeMath for uint256;
 
-    address BUSD = 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56;
-    address WBNB = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c;
+    address BUSD = 0x177AE60c54639336C4Ab1dD3A2bcB18450147DF8;
+    address WBNB = 0xAd860df4c5c5aE9A05440F8814F3F911a462F613;
     address DEAD = 0x000000000000000000000000000000000000dEaD;
     address ZERO = 0x0000000000000000000000000000000000000000;
 
